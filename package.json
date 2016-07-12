@@ -1,0 +1,31 @@
+{
+  "name": "time-ms",
+  "version": "1.0.0",
+  "description": "get the current time in milliseconds, with nanosecond precision",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Michael Rawlings",
+    "email": "ml.rawlings@gmail.com",
+    "url": "https://github.com/mlrawlings"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "time",
+    "nanosecond",
+    "process.hrtime",
+    "millisecond"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mlrawlings/time-ms.git"
+  },
+  "homepage": "https://github.com/mlrawlings/time-ms",
+  "bugs": {
+    "url": "https://github.com/mlrawlings/time-ms/issues"
+  }
+}
